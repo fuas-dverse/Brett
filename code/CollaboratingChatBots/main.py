@@ -7,16 +7,18 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+# Initialize the OpenAI Client
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Ensure the conversations directory exists
 Path("./conversations").mkdir(parents=True, exist_ok=True)
 
-# ANSI escape codes for colors
+# ANSI escape codes for colors in terminal to read the conversation better
 BLUE = '\033[94m'
 RED = '\033[91m'
 ENDC = '\033[0m'  # Reset to default color
 
+# Function to chat with Brett
 def chat_with_gpt_brett(prompt):
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
@@ -27,6 +29,7 @@ def chat_with_gpt_brett(prompt):
     )
     return response.choices[0].message.content.strip()
 
+# Function to chat with Karen
 def chat_with_gpt_karen(prompt):
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
@@ -37,6 +40,7 @@ def chat_with_gpt_karen(prompt):
     )
     return response.choices[0].message.content.strip()
 
+# Function to save the conversation in a json file inside the "/conversations" folder
 def save_conversation(conversation):
     filename = datetime.now().strftime("conversation-%Y-%m-%d-%H-%M-%S.json")
     filepath = os.path.join("./conversations", filename)
@@ -44,11 +48,12 @@ def save_conversation(conversation):
         json.dump(conversation, file, indent=4)
     print(f"Conversation saved to {filepath}")
 
+
 if __name__ == '__main__':
     conversation_history = []
     prompt = "Let's talk about soccer. Do you have a favorite team?"
     iteration = 0
-    while iteration < 5:  # Limit to 10 iterations for safety
+    while iteration < 5:  # Limit to 5 iterations for safety
         brett_msg = f"{BLUE}Brett: {prompt}{ENDC}"
         print(brett_msg)
         conversation_history.append({"Brett": prompt})
