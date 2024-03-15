@@ -1,0 +1,2421 @@
+[
+    {
+        "stad": "Tilburg",
+        "locatie": "Poppodium 013",
+        "datum": "Zaterdag 16 maart 2024",
+        "tijd": "22:00 - 06:00",
+        "prijs": "\u20ac 25,50",
+        "leeftijd": "18+"
+    },
+    {
+        "stad": "Huez",
+        "locatie": "Alpe d'Huez",
+        "datum": "Zaterdag 16 t/m zaterdag 23 maart 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 175,00",
+        "leeftijd": "18+"
+    },
+    {
+        "stad": "Leeuwarden",
+        "locatie": "Neushoorn",
+        "datum": "Vrijdag 22 t/m zaterdag 23 maart 2024",
+        "tijd": "23:00 - 06:00",
+        "prijs": "\u20ac 25,50",
+        "leeftijd": "18+"
+    },
+    {
+        "stad": "Rotterdam",
+        "locatie": "Maassilo",
+        "datum": "Zaterdag 23 maart 2024",
+        "tijd": "22:00 - 06:00",
+        "prijs": "\u20ac 39,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "NDSM-Werf",
+        "datum": "Vrijdag 29 t/m zondag 31 maart 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 95,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Schijndel",
+        "locatie": "Molenheide",
+        "datum": "Vrijdag 29 t/m zondag 31 maart 2024",
+        "tijd": "13:30 - 02:00",
+        "prijs": "\u20ac 193,50",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Spaarnwoude",
+        "locatie": "Recreatiegebied Spaarnwoude",
+        "datum": "Vrijdag 29 t/m zaterdag 30 maart 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 79,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "AFAS Live",
+        "datum": "Zaterdag 30 maart 2024",
+        "tijd": "22:00 - 08:00",
+        "prijs": "\u20ac 58,94",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Den Bosch",
+        "locatie": "Brabanthallen",
+        "datum": "Zaterdag 30 maart 2024",
+        "tijd": "14:00 - 23:00",
+        "prijs": "\u20ac 83,00",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Mannheim",
+        "locatie": "Maimarkthalle",
+        "datum": "Vrijdag 5 t/m zaterdag 6 april 2024",
+        "tijd": "20:00 - 08:00",
+        "prijs": "\u20ac 129,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Eindhoven",
+        "locatie": "Klokgebouw",
+        "datum": "Zaterdag 6 april 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 42,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Indio",
+        "locatie": "Empire Polo Club",
+        "datum": "Vrijdag 12 t/m zondag 14 april 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 649,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Haaren",
+        "locatie": "Raamse Akkers",
+        "datum": "Vrijdag 12 t/m zondag 14 april 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 74,95",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rotterdam",
+        "locatie": "Maassilo",
+        "datum": "Zaterdag 13 april 2024",
+        "tijd": "13:00 - 21:00",
+        "prijs": "\u20ac 48,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Tilburg",
+        "locatie": "Poppodium 013",
+        "datum": "Donderdag 18 t/m zondag 21 april 2024",
+        "tijd": "13:00 - 00:00",
+        "prijs": "\u20ac 83,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Eindhoven",
+        "locatie": "Stadhuisplein",
+        "datum": "Vrijdag 26 t/m zaterdag 27 april 2024",
+        "tijd": "12:00 - 00:00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Arnhem",
+        "locatie": "John Frostbrug",
+        "datum": "Vrijdag 26 t/m zaterdag 27 april 2024",
+        "tijd": "18:00 - 00:00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rotterdam",
+        "locatie": "Maassilo",
+        "datum": "Vrijdag 26 april 2024",
+        "tijd": "22:00 - 06:00",
+        "prijs": "\u20ac 35,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Zwolle",
+        "locatie": "Wijthmenerplas",
+        "datum": "Vrijdag 26 t/m zaterdag 27 april 2024",
+        "tijd": "14:00 - 23:00",
+        "prijs": "\u20ac 26,50",
+        "leeftijd": "Alle leeftijden",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Breda",
+        "locatie": "Breda International Airport",
+        "datum": "Vrijdag 26 t/m zaterdag 27 april 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 47,50",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Groningen",
+        "locatie": "Stadspark Groningen",
+        "datum": "Vrijdag 26 april 2024",
+        "tijd": "17:00 - 01:00",
+        "prijs": "\u20ac 24,50",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Arnhem",
+        "locatie": "Markt Arnhem",
+        "datum": "Vrijdag 26 t/m zaterdag 27 april 2024",
+        "tijd": "18:00 - 23:59",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Arnhem",
+        "locatie": "De Trans",
+        "datum": "Vrijdag 26 t/m zaterdag 27 april 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Delft",
+        "locatie": "Markt",
+        "datum": "Vrijdag 26 april 2024",
+        "tijd": "17:30 - 00:00",
+        "prijs": "\u20ac 25,90",
+        "leeftijd": "16+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Sittard",
+        "locatie": "Schootsvelden",
+        "datum": "Vrijdag 26 t/m zaterdag 27 april 2024",
+        "tijd": "16:00 - 23:00",
+        "prijs": "\u20ac 13,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Enschede",
+        "locatie": "University of Twente",
+        "datum": "Zaterdag 27 april 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 44,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rotterdam",
+        "locatie": "Kralingse Bos",
+        "datum": "Zaterdag 27 april 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 49,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Breda",
+        "locatie": "Chass\u00e9veld",
+        "datum": "Zaterdag 27 april 2024",
+        "tijd": "12:00 - 22:30",
+        "prijs": "\u20ac 42,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rotterdam",
+        "locatie": "Roel Langerakpark",
+        "datum": "Zaterdag 27 april 2024",
+        "tijd": "14:00 - 23:00",
+        "prijs": "\u20ac 60,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Meerpark",
+        "datum": "Zaterdag 27 april 2024",
+        "tijd": "11:00 - 20:00",
+        "prijs": "\u20ac 47,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Best",
+        "locatie": "Aquabest",
+        "datum": "Zaterdag 27 april 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 54,95",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Olympisch Stadion",
+        "datum": "Zaterdag 27 april 2024",
+        "tijd": "11:00 - 20:00",
+        "prijs": "\u20ac 58,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Alkmaar",
+        "locatie": "AFAS Stadion",
+        "datum": "Zaterdag 27 april 2024",
+        "tijd": "13:00 - 22:00",
+        "prijs": "\u20ac 35,75",
+        "leeftijd": "16+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Den Bosch",
+        "locatie": "Pettelaarse Schans",
+        "datum": "Zaterdag 27 april 2024",
+        "tijd": "14:00 - 23:00",
+        "prijs": "\u20ac 42,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Den Bosch",
+        "locatie": "Tramkade",
+        "datum": "Zaterdag 27 april 2024",
+        "tijd": "14:00 - 00:00",
+        "prijs": "\u20ac 27,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Zaandam",
+        "locatie": "Hembrugterrein",
+        "datum": "Zaterdag 27 april 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 63,44",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Westerunie",
+        "datum": "Zaterdag 27 april 2024",
+        "tijd": "12:00 - 05:00",
+        "prijs": "\u20ac 32,25",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Rhonepark",
+        "datum": "Zaterdag 27 april 2024",
+        "tijd": "12:00 - 20:00",
+        "prijs": "\u20ac 35,45",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "RAI",
+        "datum": "Zaterdag 27 april 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 54,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Zwolle",
+        "locatie": "Wijthmenerplas",
+        "datum": "Zondag 5 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 22,75",
+        "leeftijd": "Alle leeftijden",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Olympisch Stadion",
+        "datum": "Zondag 5 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 54,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Den Bosch",
+        "locatie": "Pettelaarse Schans",
+        "datum": "Zondag 5 mei 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Lofi",
+        "datum": "Zondag 5 mei 2024",
+        "tijd": "14:00 - 23:00",
+        "prijs": "\u20ac 49,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Den Haag",
+        "locatie": "Malieveld",
+        "datum": "Zondag 5 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Assen",
+        "locatie": "Baggelhuizerplas",
+        "datum": "Zondag 5 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Almere",
+        "locatie": "Binnenstad",
+        "datum": "Zondag 5 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Leeuwarden",
+        "locatie": "Binnenstad",
+        "datum": "Zondag 5 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Wageningen",
+        "locatie": "Binnenstad",
+        "datum": "Zondag 5 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Groningen",
+        "locatie": "De Drafbaan",
+        "datum": "Zondag 5 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Haarlem",
+        "locatie": "Haarlemmerhout",
+        "datum": "Zondag 5 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Roermond",
+        "locatie": "Binnenstad",
+        "datum": "Zondag 5 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Zwolle",
+        "locatie": "Park de Wezenlanden",
+        "datum": "Zondag 5 mei 2024",
+        "tijd": "11:00 - 23:30",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Vlissingen",
+        "locatie": "Binnenstad",
+        "datum": "Zondag 5 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rotterdam",
+        "locatie": "Euromast park",
+        "datum": "Zondag 5 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Utrecht",
+        "locatie": "Park Transwijk",
+        "datum": "Zondag 5 mei 2024",
+        "tijd": "12:30 - 23:00",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Wijk aan Zee",
+        "locatie": "Dorpsweide",
+        "datum": "Woensdag 8 t/m zondag 12 mei 2024",
+        "tijd": "19:00 - 00:30",
+        "prijs": "\u20ac 31,45",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Den Bosch",
+        "locatie": "Tramkade",
+        "datum": "Donderdag 9 mei 2024",
+        "tijd": "13:00 - 00:00",
+        "prijs": "\u20ac 36,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Heerenveen",
+        "locatie": "Abe Lenstra Stadion",
+        "datum": "Donderdag 9 t/m vrijdag 10 mei 2024",
+        "tijd": "18:00 - 01:00",
+        "prijs": "\u20ac 36,90",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Nijmegen",
+        "locatie": "De Vasim",
+        "datum": "Donderdag 9 mei 2024",
+        "tijd": "14:00 - 23:00",
+        "prijs": "\u20ac 39,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Utrecht",
+        "locatie": "Fort Vechten",
+        "datum": "Donderdag 9 t/m zaterdag 11 mei 2024",
+        "tijd": "12:00 - 00:30",
+        "prijs": "\u20ac 67,35",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Kaatsheuvel",
+        "locatie": "Festivalterrein De Pater",
+        "datum": "Vrijdag 10 t/m zaterdag 11 mei 2024",
+        "tijd": "14:00 - 00:00",
+        "prijs": "\u20ac 52,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Best",
+        "locatie": "Aquabest",
+        "datum": "Zaterdag 11 mei 2024",
+        "tijd": "13:00 - 00:00",
+        "prijs": "\u20ac 59,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Meerpark",
+        "datum": "Zaterdag 11 t/m zondag 12 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 94,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Houthalen",
+        "locatie": "Kelchterhoef",
+        "datum": "Vrijdag 17 t/m zondag 19 mei 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 67,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Enschede",
+        "locatie": "Het Rutbeek",
+        "datum": "Vrijdag 17 t/m zondag 19 mei 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 64,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Memmingerberg",
+        "locatie": "Industriestra\u00dfe",
+        "datum": "Vrijdag 17 t/m zondag 19 mei 2024",
+        "tijd": "14:00 - 04:00",
+        "prijs": "\u20ac 92,11",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Lopikerkapel",
+        "locatie": "Beachclub Klein Scheveningen",
+        "datum": "Zaterdag 18 mei 2024",
+        "tijd": "13:00 - 00:00",
+        "prijs": "\u20ac 49,99",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Erp",
+        "locatie": "Festivalterrein De Roost",
+        "datum": "Zaterdag 18 mei 2024",
+        "tijd": "13:00 - 01:00",
+        "prijs": "\u20ac 67,50",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Valkenburg",
+        "locatie": "Cauberg",
+        "datum": "Zaterdag 18 t/m zondag 19 mei 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 50,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Arnhem",
+        "locatie": "Stadsblokken",
+        "datum": "Zaterdag 18 mei 2024",
+        "tijd": "14:00 - 23:00",
+        "prijs": "\u20ac 51,45",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Reuver",
+        "locatie": "BillyBird Park Drakenrijk",
+        "datum": "Zaterdag 18 t/m zondag 19 mei 2024",
+        "tijd": "13:00 - 00:00",
+        "prijs": "\u20ac 40,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Oostzaan",
+        "locatie": "Het Twiske",
+        "datum": "Zaterdag 18 t/m zondag 19 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 65,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Tuinen van West",
+        "datum": "Zaterdag 18 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 73,50",
+        "leeftijd": "24+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Houtrak Terrein",
+        "datum": "Zaterdag 18 mei t/m vrijdag 19 januari 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 69,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Tuinen van West",
+        "datum": "Zondag 19 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 63,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Dortmund",
+        "locatie": "Revierpark Wischlingen",
+        "datum": "Zondag 19 mei 2024",
+        "tijd": "11:00 - 22:00",
+        "prijs": "\u20ac 54,00",
+        "leeftijd": "16+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Erp",
+        "locatie": "Festivalterrein De Roost",
+        "datum": "Zondag 19 mei 2024",
+        "tijd": "13:00 - 01:00",
+        "prijs": "\u20ac 70,50",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "plaats": "Horst",
+        "locatie": "Kasteelpark Ter Horst",
+        "datum": "Vrijdag 24 t/m zondag 26 mei 2024",
+        "tijd": "11:00 - 18:00",
+        "prijs": "\u20ac 36,50",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Sittard",
+        "locatie": "Voormalig CIOS terrein",
+        "datum": "Zaterdag 25 t/m zondag 26 mei 2024",
+        "tijd": "14:00 - 23:00",
+        "prijs": "\u20ac 34,00",
+        "leeftijd": "16+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Vlissingen",
+        "locatie": "Boulevard Evertsen",
+        "datum": "Zaterdag 25 mei 2024",
+        "tijd": "14:00 - 23:00",
+        "prijs": "\u20ac 29,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rotterdam",
+        "locatie": "Roel Langerakpark",
+        "datum": "Zaterdag 25 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 69,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Utrecht",
+        "locatie": "Ruigenhoekse Polder",
+        "datum": "Zaterdag 25 mei 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 69,95",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Parijs",
+        "locatie": "Mus\u00e9e de l'Air et de l'Espace",
+        "datum": "Zaterdag 25 t/m zondag 26 mei 2024",
+        "tijd": "12:00 - 23:59",
+        "prijs": "\u20ac 66,49",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Wijchen",
+        "locatie": "De Berendonck",
+        "datum": "Zaterdag 25 mei 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 60,00",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Hellendoorn",
+        "locatie": "Luttenbergerweg",
+        "datum": "Vrijdag 31 mei t/m zaterdag 1 juni 2024",
+        "tijd": "11:30 - 23:00",
+        "prijs": "\u20ac 77,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Alphen aan den Rijn",
+        "locatie": "Zegerplas",
+        "datum": "Vrijdag 31 mei t/m zondag 2 juni 2024",
+        "tijd": "16:00 - 00:00",
+        "prijs": "\u20ac 35,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Hulst",
+        "locatie": "Eiland Buitenvest",
+        "datum": "Vrijdag 31 mei t/m zaterdag 1 juni 2024",
+        "tijd": "13:00 - 01:00",
+        "prijs": "\u20ac 72,95",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Oisterwijk",
+        "locatie": "Sportpark d'n Donk",
+        "datum": "Vrijdag 31 mei t/m zondag 2 juni 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 77,45",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Gaasperpark",
+        "datum": "Zaterdag 1 t/m zondag 2 juni 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 71,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Den Bosch",
+        "locatie": "Engelermeer",
+        "datum": "Zaterdag 1 juni 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 58,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amstelveen",
+        "locatie": "Amsterdamse bos",
+        "datum": "Zaterdag 1 t/m zondag 2 juni 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 69,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Arnhem",
+        "locatie": "Stadsblokken",
+        "datum": "Zaterdag 1 t/m zondag 2 juni 2024",
+        "tijd": "13:00 - 00:00",
+        "prijs": "\u20ac 52,25",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Den Haag",
+        "locatie": "Zuiderpark Den Haag",
+        "datum": "Zaterdag 1 juni 2024",
+        "tijd": "12:00 - 23:30",
+        "prijs": "\u20ac 51,89",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Bergschenhoek",
+        "locatie": "Annie M.G. Schmidtpark",
+        "datum": "Vrijdag 7 t/m zaterdag 8 juni 2024",
+        "tijd": "14:00 - 23:00",
+        "prijs": "\u20ac 37,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Hilvarenbeek",
+        "locatie": "Beekse Bergen",
+        "datum": "Vrijdag 7 t/m zondag 9 juni 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 285,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "N\u00fcrburg",
+        "locatie": "N\u00fcrburgring",
+        "datum": "Vrijdag 7 t/m zondag 9 juni 2024",
+        "tijd": "13:00 - 00:00",
+        "prijs": "\u20ac 229,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Nijmegen",
+        "locatie": "NYMA",
+        "datum": "Zaterdag 8 juni 2024",
+        "tijd": "14:00 - 00:00",
+        "prijs": "\u20ac 49,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Tilburg",
+        "locatie": "Leijpark",
+        "datum": "Zaterdag 8 juni 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 53,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Utrecht",
+        "locatie": "Grasweide Strijkviertel",
+        "datum": "Zaterdag 8 t/m zondag 9 juni 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 83,94",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Haarlem",
+        "locatie": "Veerplas",
+        "datum": "Zaterdag 8 juni 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 42,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Emmen",
+        "locatie": "Grote Rietplas",
+        "datum": "Zaterdag 8 juni 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 69,50",
+        "leeftijd": "16+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Dordrecht",
+        "locatie": "Wantijpark",
+        "datum": "Zaterdag 8 juni 2024",
+        "tijd": "13:00 - 23:00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Maastricht",
+        "locatie": "Gashouder Terrein",
+        "datum": "Zaterdag 8 juni 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 29,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Delft",
+        "locatie": "Lijm & Cultuur",
+        "datum": "Zaterdag 8 juni 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 46,45",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Laren",
+        "locatie": "Kasteel Oolde",
+        "datum": "Donderdag 13 t/m zondag 16 juni 2024",
+        "tijd": "13:00 - 23:59",
+        "prijs": "\u20ac 37,50",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Mol",
+        "locatie": "Zilvermeer",
+        "datum": "Vrijdag 14 t/m zaterdag 15 juni 2024",
+        "tijd": "14:00 - 00:00",
+        "prijs": "\u20ac 56,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Eindhoven",
+        "locatie": "Landsard Beach",
+        "datum": "Zaterdag 15 juni 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 43,25",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Etten-Leur",
+        "locatie": "Brabantpark",
+        "datum": "Zaterdag 15 juni 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 32,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Utrecht",
+        "locatie": "Park Transwijk",
+        "datum": "Zaterdag 15 t/m zondag 16 juni 2024",
+        "tijd": "13:00 - 00:00",
+        "prijs": "\u20ac 62,35",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Julianadorp",
+        "locatie": "Schoolweg",
+        "datum": "Zaterdag 15 juni 2024",
+        "tijd": "13:15 - 22:00",
+        "prijs": "\u20ac 32,96",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rotterdam",
+        "locatie": "Kralingse Bos",
+        "datum": "Zaterdag 15 juni 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 68,40",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Sloterpark",
+        "datum": "Zaterdag 15 juni 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 56,35",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Dessel",
+        "locatie": "Kasteeldijk",
+        "datum": "Donderdag 20 t/m zondag 23 juni 2024",
+        "tijd": "10:00 - 23:59",
+        "prijs": "\u20ac 119,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Landgraaf",
+        "locatie": "Megaland",
+        "datum": "Vrijdag 21 t/m zondag 23 juni 2024",
+        "tijd": "13:00 - 00:00",
+        "prijs": "\u20ac 145,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Vierlingsbeek",
+        "locatie": "Sportpark Soetendaal",
+        "datum": "Vrijdag 21 t/m zondag 23 juni 2024",
+        "tijd": "19:00 - 01:00",
+        "prijs": "\u20ac 35,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Schee\u00dfel",
+        "locatie": "Eichenring",
+        "datum": "Vrijdag 21 t/m zondag 23 juni 2024",
+        "tijd": "11:00 - 23:30",
+        "prijs": "\u20ac 239,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Arnhem",
+        "locatie": "Papendal",
+        "datum": "Zaterdag 22 juni 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 42,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "plaats": "Verenigd Koninkrijk",
+        "locatie": "Pilton",
+        "datum": "Woensdag 26 t/m zondag 30 juni 2024",
+        "tijd": "Hele dag",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Ysselsteyn",
+        "locatie": "Argobaan",
+        "datum": "Donderdag 27 t/m zaterdag 29 juni 2024",
+        "tijd": "20:00 - 02:00",
+        "prijs": "\u20ac 189,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Marmande",
+        "locatie": "Plaine de la Filhole",
+        "datum": "Donderdag 27 juni t/m dinsdag 30 juli 2024",
+        "tijd": "16:00 - 05:00",
+        "prijs": "\u20ac 220,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Biddinghuizen",
+        "locatie": "Walibi",
+        "datum": "Donderdag 27 t/m zondag 30 juni 2024",
+        "tijd": "11:00 - 23:00",
+        "prijs": "\u20ac 104,95",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Zandvoort",
+        "locatie": "Beachclub Bernies",
+        "datum": "Donderdag 27 t/m zondag 30 juni 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 67,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Ouddorp",
+        "locatie": "Brouwersdam",
+        "datum": "Donderdag 27 t/m zaterdag 29 juni 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 85,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Lille",
+        "locatie": "De Lilse Bergen",
+        "datum": "Vrijdag 28 t/m zondag 30 juni 2024",
+        "tijd": "12:00 - 01:00",
+        "prijs": "\u20ac 69,50",
+        "leeftijd": "16+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Braamt",
+        "locatie": "Het Stroombroek",
+        "datum": "Vrijdag 28 t/m zondag 30 juni 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 200,00",
+        "leeftijd": "21+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Steenokkerzeel",
+        "locatie": "Kasteel van Ribaucourt",
+        "datum": "Vrijdag 28 t/m zondag 30 juni 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 149,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Wierden",
+        "locatie": "Het Lageveld",
+        "datum": "Zaterdag 29 juni 2024",
+        "tijd": "14:00 - 00:00",
+        "prijs": "\u20ac 48,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Tilburg",
+        "locatie": "Spoorpark",
+        "datum": "Zaterdag 29 juni 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 59,90",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Noord-Scharwoude",
+        "locatie": "Geestmerambacht",
+        "datum": "Zaterdag 29 juni 2024",
+        "tijd": "12:00 - 23:59",
+        "prijs": "\u20ac 64,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Eersel",
+        "locatie": "E3 Strand",
+        "datum": "Zaterdag 29 juni 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 61,05",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Eindhoven",
+        "locatie": "Effenaar",
+        "datum": "Zaterdag 29 juni 2024",
+        "tijd": "23:00 - 07:00",
+        "prijs": "\u20ac 25,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Heerlen",
+        "locatie": "Park Bekkerveld",
+        "datum": "Zaterdag 29 t/m zondag 30 juni 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 69,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Breda",
+        "locatie": "De Galderse Meren",
+        "datum": "Zaterdag 29 t/m zondag 30 juni 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 54,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Roskilde",
+        "locatie": "Roskilde Festival Terrein",
+        "datum": "Zaterdag 29 juni t/m zaterdag 6 juli 2024",
+        "tijd": "17:00 - 00:00",
+        "prijs": "\u20ac 322,40",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Zam\u00e1rdi (Hongarije)",
+        "locatie": "Balatonmeer",
+        "datum": "Woensdag 3 t/m zaterdag 6 juli 2024",
+        "tijd": "14:00 - 00:00",
+        "prijs": "\u20ac 59,00",
+        "leeftijd": "14+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Cellettes",
+        "locatie": "Ch\u00e2teau de Beauregard",
+        "datum": "Donderdag 4 t/m zondag 7 juli 2024",
+        "tijd": "18:00 - 01:00",
+        "prijs": "\u20ac 55,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Goch (DE)",
+        "locatie": "Klooster Graefenthal",
+        "datum": "Donderdag 4 t/m maandag 8 juli 2024",
+        "tijd": "16:00 - 12:00",
+        "prijs": "\u20ac 50,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Werchter",
+        "locatie": "Festivalpark",
+        "datum": "Donderdag 4 t/m zondag 7 juli 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 134,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Kraggenburg",
+        "locatie": "Netl de Wildste Tuin",
+        "datum": "Vrijdag 5 t/m zondag 7 juli 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 245,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Nes",
+        "locatie": "Strand van Ameland",
+        "datum": "Vrijdag 5 t/m zondag 7 juli 2024",
+        "tijd": "12:00 - 18:00",
+        "prijs": "\u20ac 175,95",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Turijn",
+        "locatie": "Parco Dora",
+        "datum": "Vrijdag 5 t/m zondag 7 juli 2024",
+        "tijd": "16:00 - 23:59",
+        "prijs": "\u20ac 160,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Hilvarenbeek",
+        "locatie": "Beekse Bergen",
+        "datum": "Vrijdag 5 t/m zondag 7 juli 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 99,00",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Lommel",
+        "locatie": "Industriezone Balendijk",
+        "datum": "Vrijdag 5 t/m zondag 7 juli 2024",
+        "tijd": "16:00 - 01:00",
+        "prijs": "\u20ac 149,00",
+        "leeftijd": "16+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Ebreichsdorf",
+        "locatie": "Magna Racino",
+        "datum": "Vrijdag 5 t/m zondag 7 juli 2024",
+        "prijs": "\u20ac 219,00",
+        "leeftijd": "16+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Sint Nicolaasga",
+        "locatie": "De Ulesprong",
+        "datum": "Vrijdag 5 juli 2024",
+        "tijd": "14:00 - 00:00",
+        "prijs": "\u20ac 30,40",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Beek en Donk",
+        "locatie": "WiSH Outdoor",
+        "datum": "Vrijdag 5 t/m zondag 7 juli 2024",
+        "tijd": "13:00 - 00:00",
+        "prijs": "\u20ac 120,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Beuningen",
+        "locatie": "De Groene Heuvels",
+        "datum": "Vrijdag 5 t/m zondag 7 juli 2024",
+        "tijd": "10:00 - 00:00",
+        "prijs": "\u20ac 255,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Breda",
+        "locatie": "Chass\u00e9veld",
+        "datum": "Vrijdag 5 t/m zaterdag 6 juli 2024",
+        "tijd": "16:00 - 23:00",
+        "prijs": "\u20ac 51,45",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Venlo",
+        "locatie": "Julianapark",
+        "datum": "Vrijdag 5 t/m zaterdag 6 juli 2024",
+        "tijd": "17:00 - 01:00",
+        "prijs": "\u20ac 43,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Eindhoven",
+        "locatie": "Landsard Beach",
+        "datum": "Zaterdag 6 juli 2024",
+        "tijd": "13:00 - 00:00",
+        "prijs": "\u20ac 47,50",
+        "leeftijd": "21+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Spijkenisse",
+        "locatie": "Spijkenissebrug",
+        "datum": "Zaterdag 6 juli 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 51,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Alphen aan den Rijn",
+        "locatie": "Zegerplas",
+        "datum": "Zaterdag 6 juli 2024",
+        "tijd": "15:00 - 00:00",
+        "prijs": "\u20ac 27,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Vianen",
+        "locatie": "Recreatieterrein Middelwaard",
+        "datum": "Zaterdag 6 t/m zondag 7 juli 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 85,25",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Giesbeek",
+        "locatie": "Rhederlaag",
+        "datum": "Zaterdag 6 juli 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 65,00",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Landgraaf",
+        "locatie": "Megaland",
+        "datum": "Zaterdag 6 juli 2024",
+        "tijd": "14:00 - 01:00",
+        "prijs": "\u20ac 39,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Voorthuizen",
+        "locatie": "Recreatie Park Zeumeren",
+        "datum": "Zaterdag 6 juli 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 53,35",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Madrid",
+        "locatie": "Ifema",
+        "datum": "Woensdag 10 t/m donderdag 13 juli 2023",
+        "tijd": "13:00 - 00:00",
+        "prijs": "\u20ac 95,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Luik",
+        "locatie": "les Ardentes",
+        "datum": "Donderdag 11 t/m zondag 14 juli 2024",
+        "tijd": "13:00 - 00:00",
+        "prijs": "\u20ac 105,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Gr\u00e4fenhainichen",
+        "locatie": "Ferropolis",
+        "datum": "Donderdag 11 t/m zaterdag 13 juli 2024",
+        "tijd": "12:00 - 11:59",
+        "prijs": "\u20ac 154,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Novi Sad",
+        "locatie": "Petrovaradin Fort",
+        "datum": "Donderdag 11 t/m zondag 14 juli 2024",
+        "tijd": "19:00 - 08:00",
+        "prijs": "\u20ac 120,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Neustadt-Glewe",
+        "locatie": "Airport Neustadt-Glewe",
+        "datum": "Donderdag 11 t/m zaterdag 13 juli 2024",
+        "tijd": "10:00 - 08:00",
+        "prijs": "\u20ac 109,99",
+        "leeftijd": "16+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rotterdam",
+        "locatie": "Ahoy",
+        "datum": "Vrijdag 12 t/m zondag 14 juli 2024",
+        "tijd": "14:30 - 23:59",
+        "prijs": "\u20ac 135,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Hamme",
+        "locatie": "Hamme-Zogge",
+        "datum": "Vrijdag 12 t/m zaterdag 13 juli 2024",
+        "tijd": "16:00 - 01:00",
+        "prijs": "\u20ac 67,00",
+        "leeftijd": "16+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Split",
+        "locatie": "Poljudstadion",
+        "datum": "Vrijdag 12 t/m zondag 14 juli 2024",
+        "tijd": "19:00 - 05:00",
+        "prijs": "\u20ac 179,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Woerden",
+        "locatie": "Cattenbroekerplas",
+        "datum": "Vrijdag 12 juli 2024",
+        "tijd": "17:00 - 01:00",
+        "prijs": "\u20ac 40,85",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Weert",
+        "locatie": "A2 Weert Noord",
+        "datum": "Vrijdag 12 t/m zondag 14 juli 2024",
+        "tijd": "11:00 - 00:00",
+        "prijs": "\u20ac 102,50",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Kraggenburg",
+        "locatie": "Netl de Wildste Tuin",
+        "datum": "Vrijdag 12 t/m zondag 14 juli 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 207,60",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Glasgow",
+        "locatie": "Glasgow Green",
+        "datum": "Vrijdag 12 t/m zondag 14 juli 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 124,85",
+        "leeftijd": "16+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Nijmegen",
+        "locatie": "Valkhofpark",
+        "datum": "Zaterdag 13 t/m vrijdag 19 juli 2024",
+        "tijd": "15:00 - 23:59",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Stadskanaal",
+        "locatie": "Pagedal",
+        "datum": "Zaterdag 13 juli 2024",
+        "tijd": "14:30 - 01:00",
+        "prijs": "\u20ac 42,25",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Utrecht",
+        "locatie": "Maarsseveense Plassen",
+        "datum": "Zaterdag 13 juli 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 48,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Nijmegen",
+        "locatie": "Hunnerpark",
+        "datum": "Zaterdag 13 t/m vrijdag 19 juli 2024",
+        "tijd": "19:00 - 00:30",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Purmerend",
+        "locatie": "Leeghwaterpark",
+        "datum": "Zaterdag 13 juli 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 34,99",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Enschede",
+        "locatie": "Volkspark",
+        "datum": "Zaterdag 13 juli 2024",
+        "tijd": "14:00 - 23:00",
+        "prijs": "\u20ac 54,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Amsterdamse bos",
+        "datum": "Zaterdag 13 juli 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 69,85",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Nijmegen",
+        "locatie": "Waalkade",
+        "datum": "Zaterdag 13 t/m vrijdag 19 juli 2024",
+        "tijd": "19:00 - 00:00",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Andijk",
+        "locatie": "Festivalterrein Dijkpop",
+        "datum": "Zaterdag 13 juli 2024",
+        "tijd": "13:00 - 02:00",
+        "prijs": "\u20ac 50,00",
+        "leeftijd": "12+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Ostrava",
+        "locatie": "V\u00edtkovick\u00e1",
+        "datum": "Woensdag 17 t/m zaterdag 20 juli 2024",
+        "tijd": "14:00 - 00:00",
+        "prijs": "\u20ac 127,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Bontida",
+        "locatie": "Banffy Castle",
+        "datum": "Woensdag 17 t/m zondag 21 juli 2024",
+        "tijd": "11:00 - 23:59",
+        "prijs": "\u20ac 129,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Dour",
+        "locatie": "Plaine de la Machine \u00e0 Feu",
+        "datum": "Woensdag 17 t/m zondag 21 juli 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 77,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Lichtenvoorde",
+        "locatie": "Vragender",
+        "datum": "Donderdag 18 t/m zondag 21 juli 2024",
+        "tijd": "07:00 - 00:00",
+        "prijs": "\u20ac 45,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Weeze",
+        "locatie": "Airport Weeze",
+        "datum": "Vrijdag 19 t/m zondag 21 juli 2024",
+        "tijd": "14:00 - 04:00",
+        "prijs": "\u20ac 339,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Noord-Scharwoude",
+        "locatie": "Geestmerambacht",
+        "datum": "Vrijdag 19 t/m zondag 21 juli 2024",
+        "tijd": "13:00 - 00:00",
+        "prijs": "\u20ac 149,99",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Nieuwpoort (Belgi\u00eb)",
+        "locatie": "Maritiem Park",
+        "datum": "Vrijdag 19 t/m zondag 21 juli 2024",
+        "tijd": "11:00 - 00:00",
+        "prijs": "\u20ac 82,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Middelburg",
+        "locatie": "Oude Veerseweg",
+        "datum": "Vrijdag 19 t/m zondag 21 juli 2024",
+        "tijd": "16:00 - 23:00",
+        "prijs": "\u20ac 45,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Boom",
+        "locatie": "De Schorre",
+        "datum": "Vrijdag 19 t/m zondag 21 juli 2024",
+        "tijd": "12:00 - 01:00",
+        "prijs": "\u20ac 105,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Ruigoord",
+        "datum": "Vrijdag 19 t/m zaterdag 20 juli 2024",
+        "tijd": "15:00 - 23:00",
+        "prijs": "\u20ac 70,00",
+        "leeftijd": "21+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Eersel",
+        "locatie": "E3 Strand",
+        "datum": "Vrijdag 19 t/m zaterdag 20 juli 2024",
+        "tijd": "11:00 - 23:00",
+        "prijs": "\u20ac 132,01",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Tilburg",
+        "locatie": "Spoorzone",
+        "datum": "Zaterdag 20 juli 2024",
+        "tijd": "14:00 - 01:00",
+        "prijs": "\u20ac 37,49",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Velsen",
+        "locatie": "Recreatiegebied Spaarnwoude",
+        "datum": "Zaterdag 20 juli 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 63,45",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Den Haag",
+        "locatie": "Zuiderpark Den Haag",
+        "datum": "Zaterdag 20 juli 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 67,27",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Utrecht",
+        "locatie": "Voorveldse Polder",
+        "datum": "Zaterdag 20 juli 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 56,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Johan Cruijff ArenA",
+        "datum": "Zaterdag 20 juli 2024",
+        "tijd": "20:30 - 07:00",
+        "prijs": "\u20ac 100,50",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rotterdam",
+        "locatie": "Outdoor Valley Bergschenhoek",
+        "datum": "Zaterdag 20 juli 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 57,75",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Tisno",
+        "locatie": "The Garden Croatia",
+        "datum": "Donderdag 25 t/m maandag 29 juli 2024",
+        "tijd": "12:00 - 05:00",
+        "prijs": "\u20ac 154,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amstelveen",
+        "locatie": "Amsterdamse bos",
+        "datum": "Vrijdag 26 juli t/m zondag 4 augustus 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 235,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rosmalen",
+        "locatie": "Autotron",
+        "datum": "Zaterdag 27 juli 2024",
+        "tijd": "11:00 - 23:00",
+        "prijs": "\u20ac 59,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Westerpark",
+        "datum": "Zaterdag 27 t/m zondag 28 juli 2024",
+        "tijd": "19:30 - 01:00",
+        "prijs": "\u20ac 76,50",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Den Bosch",
+        "locatie": "Pettelaarse Schans",
+        "datum": "Zaterdag 27 juli 2024",
+        "tijd": "14:00 - 23:00",
+        "prijs": "\u20ac 48,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Eindhoven",
+        "locatie": "Karpendonkse Plas",
+        "datum": "Zaterdag 27 juli 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 44,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Oegstgeest",
+        "locatie": "Klinkenbergerplas",
+        "datum": "Zaterdag 27 juli 2024",
+        "tijd": "14:00 - 23:30",
+        "prijs": "\u20ac 30,11",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Milovice Airfield",
+        "locatie": "Milovice Airfield",
+        "datum": "Donderdag 1 t/m zaterdag 3 augustus 2024",
+        "tijd": "16:00 - 06:00",
+        "prijs": "\u20ac 177,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Roermond",
+        "locatie": "Maasplassen",
+        "datum": "Donderdag 1 t/m zondag 4 augustus 2024",
+        "tijd": "11:00 - 23:00",
+        "prijs": "\u20ac 72,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Hasselbach",
+        "locatie": "Raketenbasis Pydna",
+        "datum": "Donderdag 1 t/m zondag 4 augustus 2024",
+        "tijd": "20:00 - 08:00",
+        "prijs": "\u20ac 109,00",
+        "leeftijd": "16+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Lokeren",
+        "locatie": "Grote Kaai",
+        "datum": "Vrijdag 2 t/m zondag 11 augustus 2024",
+        "tijd": "17:00 - 02:30",
+        "prijs": "\u20ac 58,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rotterdam",
+        "locatie": "Zuiderpark",
+        "datum": "Zaterdag 3 augustus 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 64,35",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Zeebrugge",
+        "locatie": "Zeedijk",
+        "datum": "Zaterdag 3 t/m zondag 4 augustus 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 68,75",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rochefort",
+        "locatie": "Le Velodrome de Rochefort",
+        "datum": "Zaterdag 3 t/m zondag 4 augustus 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 36,98",
+        "leeftijd": "16+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Almere",
+        "locatie": "Almere Strand",
+        "datum": "Zaterdag 3 augustus 2024",
+        "tijd": "11:00 - 23:00",
+        "prijs": "\u20ac 64,95",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Boedapest",
+        "locatie": "The Island of Freedom",
+        "datum": "Woensdag 7 t/m maandag 12 augustus 2024",
+        "tijd": "16:00 - 04:00",
+        "prijs": "\u20ac 229,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Venlo",
+        "locatie": "Julianapark",
+        "datum": "Donderdag 8 t/m zondag 11 augustus 2024",
+        "tijd": "18:00 - 00:00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Wachtebeke",
+        "locatie": "Pyenbroeck",
+        "datum": "Vrijdag 9 t/m zondag 11 augustus 2024",
+        "tijd": "14:00 - 23:00",
+        "prijs": "\u20ac 79,95",
+        "leeftijd": "16+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Spaarnwoude",
+        "locatie": "Velsen Valley",
+        "datum": "Zaterdag 10 augustus 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 81,25",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Best",
+        "locatie": "Aquabest",
+        "datum": "Zaterdag 10 augustus 2024",
+        "tijd": "13:00 - 23:59",
+        "prijs": "\u20ac 59,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rotterdam",
+        "locatie": "Roel Langerakpark",
+        "datum": "Zaterdag 10 augustus 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 69,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Breda",
+        "locatie": "Breepark",
+        "datum": "Zaterdag 10 augustus 2024",
+        "tijd": "13:00 - 01:00",
+        "prijs": "\u20ac 49,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Utrecht",
+        "locatie": "De Middengaarde",
+        "datum": "Zaterdag 10 augustus 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 46,35",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Groningen",
+        "locatie": "Suikerunie",
+        "datum": "Zaterdag 10 t/m zondag 11 augustus 2024",
+        "tijd": "16:00 - 08:00",
+        "prijs": "\u20ac 48,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Sloterpark",
+        "datum": "Zaterdag 10 t/m zondag 11 augustus 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 59,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Spaarnwoude",
+        "locatie": "Velsen Valley",
+        "datum": "Zondag 11 augustus 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 68,75",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Hasselt",
+        "locatie": "Kempische Steenweg",
+        "datum": "Donderdag 15 t/m zondag 18 augustus 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 125,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Biddinghuizen",
+        "locatie": "Walibi",
+        "datum": "Vrijdag 16 t/m zondag 18 augustus 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 325,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Ulft",
+        "locatie": "DRU Park",
+        "datum": "Vrijdag 16 t/m zaterdag 17 augustus 2024",
+        "tijd": "18:00 - 01:00",
+        "prijs": "\u20ac 52,50",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Hilvarenbeek",
+        "locatie": "Beekse Bergen",
+        "datum": "Vrijdag 16 t/m zondag 18 augustus 2024",
+        "tijd": "11:00 - 23:30",
+        "prijs": "\u20ac 159,95",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Havenpark",
+        "datum": "Zaterdag 17 augustus 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 71,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Velsen",
+        "locatie": "Recreatiegebied Spaarnwoude",
+        "datum": "Zondag 18 augustus 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 69,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Novalja",
+        "locatie": "Zrce Beach",
+        "datum": "Zondag 18 t/m donderdag 22 augustus 2024",
+        "tijd": "16:00 - 06:00",
+        "prijs": "\u20ac 219,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Parijs",
+        "locatie": "Saint-Cloud",
+        "datum": "Woensdag 21 t/m zondag 25 augustus 2024",
+        "tijd": "17:00 - 23:45",
+        "prijs": "\u20ac 75,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Almere",
+        "locatie": "Almeerderstrand",
+        "datum": "Vrijdag 23 t/m zaterdag 24 augustus 2024",
+        "tijd": "13:00 - 00:00",
+        "prijs": "\u20ac 57,50",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rotterdam",
+        "locatie": "Van Nelle Fabriek",
+        "datum": "Zaterdag 24 augustus 2024",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Kaap Oost",
+        "datum": "Zaterdag 24 augustus 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 52,50",
+        "leeftijd": "21+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Vlieland",
+        "locatie": "Kampweg",
+        "datum": "Donderdag 29 augustus t/m zondag 1 september 2024",
+        "tijd": "12:00 - 22:00",
+        "prijs": "\u20ac 214,50",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Pula",
+        "locatie": "The Garden Croatia",
+        "datum": "Donderdag 29 augustus t/m maandag 2 september 2024",
+        "tijd": "12:00 - 02:00",
+        "prijs": "\u20ac 240,14",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Utrecht",
+        "locatie": "Haarrijnseplas",
+        "datum": "Vrijdag 30 t/m zaterdag 31 augustus 2024",
+        "tijd": "17:00 - 01:00",
+        "prijs": "\u20ac 55,35",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Haarlemmermeer",
+        "locatie": "Floriadeterrein",
+        "datum": "Vrijdag 30 augustus t/m zondag 1 september 2024",
+        "tijd": "11:00 - 23:00",
+        "prijs": "\u20ac 119,95",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Groningen",
+        "locatie": "Stadspark Groningen",
+        "datum": "Zaterdag 31 augustus 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 69,50",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Tuinen van West",
+        "datum": "Zaterdag 31 augustus 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 49,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Spaarnwoude",
+        "locatie": "Houtrak Terrein",
+        "datum": "Zaterdag 31 augustus 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 57,40",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Nijmegen",
+        "locatie": "Goffertpark",
+        "datum": "Zaterdag 31 augustus 2024",
+        "tijd": "14:00 - 00:00",
+        "prijs": "\u20ac 53,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Eersel",
+        "locatie": "E3 Strand",
+        "datum": "Zaterdag 31 augustus 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 48,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Bussloo",
+        "locatie": "Recreatieplas Bussloo",
+        "datum": "Zaterdag 31 augustus 2024",
+        "tijd": "21:00 - 07:00",
+        "prijs": "\u20ac 67,50",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Enschede",
+        "locatie": "Military Airbase Twente",
+        "datum": "Zaterdag 31 augustus 2024",
+        "tijd": "14:00 - 23:59",
+        "prijs": "\u20ac 65,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Hoorn",
+        "locatie": "Julianapark Hoorn",
+        "datum": "Zaterdag 31 augustus 2024",
+        "tijd": "13:00 - 23:59",
+        "prijs": "\u20ac 47,80",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Breda",
+        "locatie": "Asterdplas",
+        "datum": "Zaterdag 31 augustus 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 65,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Bergschenhoek",
+        "locatie": "Annie M.G. Schmidtpark",
+        "datum": "Vrijdag 6 t/m zaterdag 7 september 2024",
+        "tijd": "17:00 - 00:00",
+        "prijs": "\u20ac 40,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Tilburg",
+        "locatie": "MOB Complex",
+        "datum": "Vrijdag 6 t/m zaterdag 7 september 2024",
+        "tijd": "12:00 - 00:30",
+        "prijs": "\u20ac 82,90",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rotterdam",
+        "locatie": "Ahoy",
+        "datum": "Zaterdag 7 september 2024",
+        "tijd": "13:00 - 00:00",
+        "prijs": "\u20ac 64,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Grimbergen",
+        "locatie": "Kasteel Grimbergen",
+        "datum": "Zaterdag 7 t/m zondag 8 september 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 79,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Utrecht",
+        "locatie": "Grasweide Strijkviertel",
+        "datum": "Zaterdag 7 september 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 66,35",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Best",
+        "locatie": "Aquabest",
+        "datum": "Zaterdag 7 september 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 48,75",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rotterdam",
+        "locatie": "Recreatieoord Binnenmaas",
+        "datum": "Zaterdag 7 september 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 54,35",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Berlijn",
+        "locatie": "Olympisch Park",
+        "datum": "Zaterdag 7 t/m zondag 8 september 2024",
+        "tijd": "11:00 - 01:00",
+        "prijs": "\u20ac 115,00",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Tiel",
+        "locatie": "Waalkade",
+        "datum": "Vrijdag 13 t/m zaterdag 14 september 2024",
+        "tijd": "13:00 - 00:00",
+        "prijs": "Gratis",
+        "leeftijd": "Alle leeftijden",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Utrecht",
+        "locatie": "Grasweide Papendorp",
+        "datum": "Zaterdag 14 september 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 69,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Riekerhaven",
+        "datum": "Zaterdag 14 t/m zondag 15 september 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 53,50",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Arnhem",
+        "locatie": "GelreDome",
+        "datum": "Zaterdag 14 september 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 64,95",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Breda",
+        "locatie": "Lage Aard",
+        "datum": "Zaterdag 14 t/m zondag 15 september 2024",
+        "tijd": "13:00 - 23:00",
+        "prijs": "\u20ac 57,35",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amersfoort",
+        "locatie": "Openluchttheater",
+        "datum": "Vrijdag 20 t/m zaterdag 21 september 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 53,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Rotterdam",
+        "locatie": "Kralingse Bos",
+        "datum": "Zaterdag 21 september 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 34,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Vianen",
+        "locatie": "Recreatieterrein Middelwaard",
+        "datum": "Zaterdag 21 september 2024",
+        "tijd": "11:00 - 23:00",
+        "prijs": "\u20ac 70,95",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Woerden",
+        "locatie": "Stadspark Molenvliet",
+        "datum": "Zaterdag 21 september 2024",
+        "tijd": "12:00 - 23:00",
+        "prijs": "\u20ac 51,35",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Volkel",
+        "locatie": "Recreatiepark Hemelrijk",
+        "datum": "Vrijdag 4 t/m zondag 6 oktober 2024",
+        "tijd": "14:00 - 21:00",
+        "prijs": "\u20ac 33,25",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Dortmund",
+        "locatie": "Westfalenhallen",
+        "datum": "Zaterdag 5 oktober 2024",
+        "tijd": "20:00 - 06:00",
+        "prijs": "\u20ac 79,50",
+        "leeftijd": "16+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Utrecht",
+        "locatie": "Fort Vechten",
+        "datum": "Zaterdag 5 oktober 2024",
+        "tijd": "14:00 - 23:00",
+        "prijs": "\u20ac 52,85",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Boxtel",
+        "locatie": "Velder Woods",
+        "datum": "Zaterdag 12 t/m zondag 13 oktober 2024",
+        "tijd": "12:00 - 00:00",
+        "prijs": "\u20ac 51,00",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Johan Cruijff ArenA",
+        "datum": "Zaterdag 19 oktober 2024",
+        "tijd": "21:00 - 06:00",
+        "prijs": "\u20ac 122,08",
+        "leeftijd": "18+",
+        "": "Boek voordelig een busreis via Partybussen.nl",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    },
+    {
+        "stad": "Amsterdam",
+        "locatie": "Ziggo Dome",
+        "datum": "Zaterdag 1 maart 2025",
+        "tijd": "22:00 - 06:00",
+        "prijs": "\u20ac 69,00",
+        "leeftijd": "18+",
+        "updates": "Op de hoogte blijven? Maak een account aan"
+    }
+]
