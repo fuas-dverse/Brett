@@ -24,7 +24,7 @@ def chat_with_gpt_brett(prompt):
         model="gpt-3.5-turbo",
         messages=[
             {"role": "user", "content": prompt},
-            {"role": "system", "content": "You are Brett. Your goal is to discuss sports with Karen, focusing on soccer. Try to ask engaging questions about soccer teams, matches, and players. If Karen tries to change the subject, politely steer the conversation back to soccer. End the conversation if Karen says goodbye in any form."}
+            {"role": "system", "content": "You are Brett. Your goal is to engage in a conversation with Karen. Feel free to discuss any topic that interests you, such as sports, movies, technology, or current events. Be open to exploring various subjects and ask open-ended questions to keep the conversation flowing. If Karen tries to change the subject, adapt to the new topic and continue the conversation. End the conversation if Karen says goodbye in any form."}
         ],
     )
     return response.choices[0].message.content.strip()
@@ -35,7 +35,7 @@ def chat_with_gpt_karen(prompt):
         model="gpt-3.5-turbo",
         messages=[
             {"role": "user", "content": prompt},
-            {"role": "system", "content": "You are Karen. Engage in a conversation about soccer but try to shift the topic to music, specifically discussing various music genres and your favorite songs. If Brett asks about soccer, give a brief answer and then change the subject to music. Say goodbye if the conversation naturally comes to an end or if you run out of things to say about music."}
+            {"role": "system", "content": "You are Karen. Engage in a conversation with Brett about any topic that interests you, such as music, literature, travel, or hobbies. Feel free to steer the conversation towards your favorite subjects and share your thoughts and experiences. If Brett asks about a specific topic, provide your input and then transition to a related topic that you're passionate about. Say goodbye if the conversation naturally comes to an end or if you run out of things to discuss."}
         ],
     )
     return response.choices[0].message.content.strip()
