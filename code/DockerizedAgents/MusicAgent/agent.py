@@ -31,7 +31,7 @@ async def chat_with_music_specialist(prompt):
     return response.choices[0].message.content.strip()
 
 
-@app.route('/')
+@app.route('/info', methods=['GET'])
 def home():
     return {
         "name": "Football Specialist Agent",
