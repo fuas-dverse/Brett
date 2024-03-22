@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  football_agent:
+    build: ./FootballAgent
+    stop_signal: SIGINT
+    ports:
+      - "5000:5000"
+
+  music_agent:
+    build: ./MusicAgent
+    stop_signal: SIGINT
+    ports:
+      - "5001:5001"
