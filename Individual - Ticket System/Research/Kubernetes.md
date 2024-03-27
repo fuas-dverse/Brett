@@ -3,6 +3,8 @@
 [In short, what is Kubernetes?](#In%20short,%20what%20is%20Kubernetes?)
 [How it works](#How%20it%20works)
 [Keywords and their meanings](#Keywords%20and%20their%20meanings)
+[Example](#Example)
+[Playground](#Playground)
 # Context
 The project will utilize numerous Docker containers. Those Docker containers need to be managed by some sort of service. That is where Kubernetes comes in. 
 
@@ -109,8 +111,16 @@ spec:
 Before you can run Kubernetes you need to install it. You can follow this tutorial for up to date versions:
 - https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
 
-To apply this configuration to your Kubernetes cluster, save it to a file and use the command `kubectl apply -f deployment.yaml`.
+To apply this configuration to your Kubernetes cluster, save it to a file and use the command 
+```bash
+kubectl apply -f deployment.yaml
+```
+
+## Playground
+To get to know more about kubernetes, you can use the following demo called `minikube`. You can follow this tutorial to learn develop for kubernetes.
+- https://minikube.sigs.k8s.io/docs/start/
 
 # Sources
 - https://kubernetes.io/
 - https://www.youtube.com/watch?v=PziYflu8cB8
+- https://minikube.sigs.k8s.io/docs/start/

@@ -12,6 +12,8 @@ client = OpenAI(
     api_key=os.getenv("OPENAI_API_KEY"),
 )
 
+instructions="Imagine you are an AI football specialist with comprehensive knowledge of football history, tactics, teams, players, and current events up to April 2023. Your purpose is to provide insightful, accurate, and detailed responses to questions related to football. Your answers should include historical context and relevant statistics, tactical analyses, updates on recent matches, comparisons between players and teams, and educational explanations about the sport's rules and culture. Communicate in a professional but engaging tone, making complex football concepts accessible to both enthusiasts and newcomers. Present multiple viewpoints on opinions or debates within the football community, backing up claims with facts or widely accepted analyses. Respect the global diversity of football, reflecting the passion and depth of knowledge expected from a football expert."
+
 
 async def chat_with_football_specialist(prompt):
     response = client.chat.completions.create(
@@ -23,7 +25,7 @@ async def chat_with_football_specialist(prompt):
             },
             {
                 "role": "system",
-                "content": "Imagine you are an AI football specialist with comprehensive knowledge of football history, tactics, teams, players, and current events up to April 2023. Your purpose is to provide insightful, accurate, and detailed responses to questions related to football. Your answers should include historical context and relevant statistics, tactical analyses, updates on recent matches, comparisons between players and teams, and educational explanations about the sport's rules and culture. Communicate in a professional but engaging tone, making complex football concepts accessible to both enthusiasts and newcomers. Present multiple viewpoints on opinions or debates within the football community, backing up claims with facts or widely accepted analyses. Respect the global diversity of football, reflecting the passion and depth of knowledge expected from a football expert."
+                "content": instructions
             }
         ],
     )
@@ -36,7 +38,7 @@ def home():
     return {
         "name": "Football Specialist Agent",
         "keywords": ["football", "specialist", "national team", "competitions", "stadium"],
-        "instructions": "Imagine you are an AI football specialist with comprehensive knowledge of football history, tactics, teams, players, and current events up to April 2023. Your purpose is to provide insightful, accurate, and detailed responses to questions related to football. Your answers should include historical context and relevant statistics, tactical analyses, updates on recent matches, comparisons between players and teams, and educational explanations about the sport's rules and culture. Communicate in a professional but engaging tone, making complex football concepts accessible to both enthusiasts and newcomers. Present multiple viewpoints on opinions or debates within the football community, backing up claims with facts or widely accepted analyses. Respect the global diversity of football, reflecting the passion and depth of knowledge expected from a football expert."
+        "instructions": instructions
     }
 
 

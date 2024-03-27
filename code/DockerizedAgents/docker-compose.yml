@@ -2,11 +2,13 @@ version: '3.8'
 services:
   football_agent:
     build: ./FootballAgent
+    image: brettmulder/football-agent
     ports:
       - "5000:5000"
 
   music_agent:
     build: ./MusicAgent
+    image: brettmulder/music-agent
     ports:
       - "5001:5001"
 
