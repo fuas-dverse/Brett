@@ -59,5 +59,7 @@ End of the first official sprint, I think I made lots of progress in getting to 
 
 In the beginning of the week, we as a group give each of us a task to realize the prototype based on the goal. Each of us got their own task, on Tuesday everything was combined together to make our prototype ready for the demo on Thursday.
 
+Also started working on my first portfolio, but from my opinion, I think in the future we needed to have the presentation about the portfolio a bit earlier. Because officially we are free at Friday and we got the presentation about the portfolio on Thursday.
+
 **Grade:** 8 - Happy with the result of the goal / prototype from this sprint
 
