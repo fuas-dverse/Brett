@@ -60,13 +60,15 @@ Before creating some code, there are some things I need to do according to this 
 After that, I needed an Azure Container Registry, this is going to contain the Docker Container. And at last I need a Azure Web App, this is in the end going to be linked to the Container Registry in order to make it accessible on the internet.
 
 1. Create a new resource group
-![[CreateResourceGroup.png]]
+![CreateResourceGroup](https://github.com/fuas-dverse/Brett/assets/111641213/144ab15d-2fa5-4311-b067-49c62d3fdc5b)
+
 
 2. Create a new Container Registry in the DVerse resource group
-![[CreateContainerRegistry.png]]
+![CreateContainerRegistry](https://github.com/fuas-dverse/Brett/assets/111641213/a9134494-892d-45bb-937c-954e22485b49)
 
 3. Create a new App Service in the DVerse resource group
-![[CreateAppService.png]]
+![CreateAppService](https://github.com/fuas-dverse/Brett/assets/111641213/ab8a8401-f38c-48ad-8dc7-dbc6cfbdd8cc)
+
 
 So for now this is what I had to do in Azure, the next step is how I can build and push a Docker Container to the Container Registry in Azure. 
 
@@ -179,6 +181,7 @@ This step focuses on the deployment part of the Container to the Azure Web Servi
 
 ``Deploy the Azure Web App`` is used to actually deploy the Container. It requires the ``AZURE_WEBAPP_NAME`` that is defined on top of the file. Than Azure want to have the publish profile that can be installed from the Azure dashboard from the App Service.
 
-![[DownloadPublishProfile.png]]
+![DownloadPublishProfile](https://github.com/fuas-dverse/Brett/assets/111641213/7f2111dc-fb2c-4261-bdb0-fe8f7c13a01a)
+
 
 And at last you have to specify the image name that is on the Container Registry. This is the same as used for building and pushing the Docker Container,
