@@ -61,14 +61,20 @@ After that, I needed an Azure Container Registry, this is going to contain the D
 
 1. Create a new resource group
 ![CreateResourceGroup](https://github.com/fuas-dverse/Brett/assets/111641213/144ab15d-2fa5-4311-b067-49c62d3fdc5b)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2fe6ccd42f0ef6d78f0cbdbab421d369663e7b3f
 
 2. Create a new Container Registry in the DVerse resource group
 ![CreateContainerRegistry](https://github.com/fuas-dverse/Brett/assets/111641213/a9134494-892d-45bb-937c-954e22485b49)
 
 3. Create a new App Service in the DVerse resource group
 ![CreateAppService](https://github.com/fuas-dverse/Brett/assets/111641213/ab8a8401-f38c-48ad-8dc7-dbc6cfbdd8cc)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2fe6ccd42f0ef6d78f0cbdbab421d369663e7b3f
 
 So for now this is what I had to do in Azure, the next step is how I can build and push a Docker Container to the Container Registry in Azure. 
 
@@ -183,5 +189,9 @@ This step focuses on the deployment part of the Container to the Azure Web Servi
 
 ![DownloadPublishProfile](https://github.com/fuas-dverse/Brett/assets/111641213/7f2111dc-fb2c-4261-bdb0-fe8f7c13a01a)
 
-
+<<<<<<< HEAD
+=======
 And at last you have to specify the image name that is on the Container Registry. This is the same as used for building and pushing the Docker Container,
+
+>>>>>>> 2fe6ccd42f0ef6d78f0cbdbab421d369663e7b3f
+
