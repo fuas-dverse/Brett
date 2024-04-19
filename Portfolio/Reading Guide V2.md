@@ -1,4 +1,4 @@
-# [[Reading Guide V1]]
+# [[Reading Guide V2]]
 ## Table of contents
 [About myself](#About%20myself%20🧑)
 [Projects overview](#Projects%20overview)
