@@ -10,18 +10,18 @@
 [Feedpulse](#Feedpulse%20📃)
 [Conclusion](#Conclusion%20💬)
 
-## About myself 🧑
+## About myself 
 My name is Brett Mulder, 21 years young. My hobbies are going to the Gym and working on hobby projects as a software developer. Beside school, I am already working at Beech, this was my internship company from last semester. I think I can learn lot more when working alongside school.
 
-In the weekends I am frequently with my friends and going out. On other spare time I am with my girlfriend. Beside all my hobbies I like cooking (only pasta's 🍝). 
+In the weekends I am frequently with my friends and going out. On other spare time I am with my girlfriend. Beside all my hobbies I like cooking (only pasta's). 
 
 ## Projects overview 
 For understanding this reading guide better, it is good to first get a better understanding on what project I will be creating this semester. First I will tell a bit about the group project, as the context of this will be important for the individual as they are closely linked together.
 
-### Group project 🤝
+### Group project
 The group project I selected is called “Collaborating Bots” the goal of this project is to create a decentralized piece of software where multiple individual agents can work together to specific goal prompted by a user. For example: “I want to book a hotel in Spain close to Torrente de Pareis, that has at least an average of three-star reviews and has to be the cheapest one.” To achieve this task there will be multiple steps involved like searching for hotels near the place, checking the prices, checking the reviews and booking. All these tasks will be an individual agent that works together with the rest to achieve the goal.
 
-### Individual project 🧑
+### Individual project
 So, why I stated that the group project and individual one are closely linked together is because my individual project is to create one or more of these agents that can work together in the group project's network. Which I'm doing together with Brett.
 
 Initially, we wanted to create some kind of system where users can book tickets to an event, we wanted to do this because we thought that it would fit nicely with the scalable architectures learning outcome. When we give a pitch about this idea to our teachers, they said it would be way too big to combined with the work required for the group project. That is why we decided to scale down this project to a couple of agents that can execute the scenario of helping users find tickets to an upcoming festival.
@@ -33,7 +33,7 @@ To clarify this a bit more, we decided to create a couple of bots revolving to t
 
 If and when the time allows it, we might create more agents for this or another scenario.
 
-## Self Assessment ✅
+## Self Assessment
 In this part I am going to be give myself a assessment based on the Learning Outcomes.
 
 |                                         | Undefined | Orienting | Beginning | Proficient | Advanced |
@@ -176,13 +176,6 @@ Nothing to prove yet...
 - **Argument:** As an individual I created research about what databases are good for the group project. So I checked which types of database there are. But also what options of different databases. This is also a "Bob the builder" research, so there is no concrete conslusion.  
 ###### Group
 Nothing to prove yet...
-
-## Feedpulse 📃
-For the feedback moments, I put a direct link to the Feedpulse module in Canvas. 
-- [`@feedpulse - 07-03-2024 - Group - Tulin`](https://fhict.instructure.com/courses/13669/external_tools/1067)
-- [`@feedpulse - 19-03-2024 - Individual - Marc`](https://fhict.instructure.com/courses/13669/external_tools/1067)
-- [`@feedpulse - 27-03-2024 - Individual - Jeffrey`](https://fhict.instructure.com/courses/13669/external_tools/1067)
-- [`@feedpulse - 28-03-2024 - Individual - Tulin`](https://fhict.instructure.com/courses/13669/external_tools/1067)
 
 ## Conclusion 💬
 Overall, the first portfolio is good. I think I touched lot of the Learning Outcomes, but some of them are not possible in the first portfolio. I think the group is settled, I understand the group project better not. So from now on it can only get better.

@@ -16,7 +16,7 @@ xychart-beta
     title "Weekly Reflection Grades"
     x-axis "Weeks" [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
     y-axis "Grade (1 to 10)" 1 --> 10
-    bar [8, 8, 7, 8, 9, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [8, 8, 7, 8, 9, 8, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 ```
 
 ## Week 1
@@ -63,3 +63,23 @@ Also started working on my first portfolio, but from my opinion, I think in the 
 
 **Grade:** 8 - Happy with the result of the goal / prototype from this sprint
 
+## Week 7
+Delivered first portfolio, had some feedback about the portfolio. I think regarding the feedback it was good for now but I need to do more next weeks. I think the professional related learning outcomes are going well, the technical learning outcomes needs to have some more attention. Aspessially the one where I did not do anything such as security by design.
+
+**Grade**: 7 - Start of the new sprint, a new goal and new challenges.
+
+## Week 8
+Mainly did the frontend and the CI/CD. I created a research about the CI/CD and how to set it up. The for next week I want to create a reading guide / install guide about how to setup a CI/CD using Azure and Docker.
+
+Had a conversation with Marc about how it is going, I think it is going well. As said I mainly focussed the first week to the Frontend. But I also said that I want to do the backend as well, so that is something for next sprint.
+
+Marc told me to keep on going and it will be fine in the end.
+
+**Grade**: 7 - Did a lot of things (frontend) but want the backend as well
+
+## Week 9
+A week full of finishing touches and preparing for the sprint delivery. We created a new presentation for next week Monday. I looked with Reno to the keycloak signing out from NextJS. I was a bit tricky because of the functionality from NextJS, but in the end it finished.
+
+Had a important meeting at work on Thursday, so I could not be there at the Career day.
+
+**Grade**: 7 - Did lots of preparation but not so much coding
