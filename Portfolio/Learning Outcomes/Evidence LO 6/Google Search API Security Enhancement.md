@@ -19,6 +19,10 @@ To protect against common web vulnerabilities, the application incorporates seve
 6. **Strict-Transport-Security (HSTS)**: `max-age=63072000; includeSubDomains`
     - Forces the browser to connect to the API over HTTPS, reducing the risk of man-in-the-middle attacks.
 
+### Security Headers Validation
+For validating if the Headers are being set correctly when running on Azure App Service. I used the tool: https://securityheaders.com/?q=dversegooglesearchagent.azurewebsites.net&followRedirects=on in order to check if the security headers are being set. And this is the result. 
+![[Screenshot 2024-05-08 at 10.32.07.png]]
+
 ### Authentication
 The API uses a key-based authentication mechanism where each request must include a valid API key in the `Authorization` header, ensuring that access is granted only to authenticated users.
 
